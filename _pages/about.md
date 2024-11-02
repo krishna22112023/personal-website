@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-***I am actively looking for potential PhD Supervisors. My CV is linked [here](/Users/krishnaiyer/krishna22112023.github.io/assets/pdf/CV.pdf).***
+***I am actively looking for potential PhD Supervisors. My CV is linked [here](assets/pdf/CV.pdf).***
 
 Hi there! I am a senior AI researcher at the Artifical Intelligence Data Analytics and Strategic Technolgy Center ([AI.DA STC](https://www.stengg.com/en/digital-tech/data-science-analytics-and-ai)) at ST Engineering, Singapore 
 
