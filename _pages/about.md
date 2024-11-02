@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-description: Senior researcher at ST Engineering
+description: Senior AI Research Engineer at ST Engineering
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: 
   
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+***I am actively looking for potential PhD Supervisors. My CV is linked [here](/Users/krishnaiyer/krishna22112023.github.io/assets/pdf/CV.pdf).***
 
-Hi there! my name is Srikrishna Iyer, and I am a senior researcher at ST Engineering, Singapore. I am passionate about exploring the theoretical and practical aspects of machine learning and deep learning to build robust, unbiased, and interpretable artificially intelligent systems.
+Hi there! I am a senior AI researcher at the Artifical Intelligence Data Analytics and Strategic Technolgy Center ([AI.DA STC](https://www.stengg.com/en/digital-tech/data-science-analytics-and-ai)) at ST Engineering, Singapore 
 
-**Research**: Currently, I am working at the intersection of domain generalization, interpretability, causal inference and generative algorithms for a variety of domains including signal processing, spatio-temporal (time-series) and computer vision for various strategic business areas in ST Engineering including predictive maintenance, explainable AI and generative AI. For details about my background and research, please take a look at my CV and my projects page.
+**Research** \
+I am interested in research on sequential data (natural language processing and time-series). More specifically on Representation learning, sample-efficient deep learning and Information retrieval. More recently, I am exploring multi-agent LLMs, multi-modal representation learning and mechanistic interpretability.  
 
-**Previously**: I have worked as a research analyst at ASM Pacific Technology, Singapore on representation learning and continual learning applied to anomaly detection and quality inspection for wire bond equipment. I graduated with a Masters degree in Computer control and automation from Nanyang Technological University, Singapore where I was advised by Dr. [M.F Karim](https://dr.ntu.edu.sg/cris/rp/rp00350) on wireless health monitoring and diagnosis systems using machine learning. I received my bachelor's degree in Electronics and communications from Vellore Institute of Technology, Vellore where I researched on evolutionary algorithmic optimization and remote sensing technologies for structural health monitoring. 
+**Previously**\
+I have worked as a R&D Engineer in the wirebonding division at ASM Pacific Technology, Singapore on time-series representation learning and domain adaptation problems towards [AI of Things (AIoT)](https://semi.asmpt.com/en/news-center/market-insights/realising-the-smart-factory-vision-through-an-ai-of-things-aiot-approach/).\
+I graduated with a Masters degree in Computer control and automation from Nanyang Technological University, Singapore where I was advised by Dr. [Muhammad Faeyz Karim](https://engineering.tamu.edu/etid/profiles/karim-muhammad-faeyz.html) on health monitoring and diagnosis systems using mmWave radars and deep learning. I received my bachelor's degree in Electronics and communications from Vellore Institute of Technology, Vellore where I researched on evolutionary algorithmic optimization and remote sensing technologies for structural health monitoring. 
 
 **Contact** : srikrishnaiyer@gmail.com
 
